@@ -9,4 +9,4 @@
 **Observação:** Trabalho de Análise exploratória realizado no Google Colab (link abaixo).
 
 
-**URL do MVP - Notebook:** https://colab.research.google.com/drive/1FhB8ULYQgUoGxLioQprfcKehxoyhqFo1?usp=sharing
+**URL do notebook:** https://colab.research.google.com/drive/1FhB8ULYQgUoGxLioQprfcKehxoyhqFo1?usp=sharing
